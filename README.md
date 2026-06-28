@@ -17,29 +17,9 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class MudassarHayat:
-    def __init__(self):
-        self.name        = "Mudassar Hayat"
-        self.location    = "Narowal, Punjab, Pakistan 🇵🇰"
-        self.education   = "BSCS — University of Narowal (2022–2026)"
-        self.role        = "Full Stack Developer | AI & ML Enthusiast"
-        self.experience  = "6-Month Internship @ Mezain Solution Software House"
-        self.languages   = ["Urdu (Native)", "English (Professional)"]
+📍 **Narowal, Punjab, Pakistan** &nbsp;|&nbsp; 🎓 **BSCS — University of Narowal (2022–2026)** &nbsp;|&nbsp; 📧 **mudassarmalhi34501@gmail.com**
 
-    def current_focus(self):
-        return [
-            "🔭 Final Year Project — AI Medical Diagnostic Assistant",
-            "🌱 Advanced Machine Learning, Deep Learning & MongoDB",
-            "👯 Open to collaborate on Python / Web Dev projects",
-        ]
-
-    def fun_fact(self):
-        return "I trained a CNN on 50,000+ MRI images achieving ~94% accuracy 🧬"
-
-    def reach_me(self):
-        return "mudassarmalhi34501@gmail.com"
-```
+Motivated and results-driven Computer Science graduate with hands-on experience in Full Stack Web Development using **React.js, Python, Django, REST APIs**, and **SQL databases**. Completed a **six-month internship** at Mezain Solution Software House, gaining practical experience in developing real-world applications and backend systems. Passionate about **Artificial Intelligence, Machine Learning, and Deep Learning**, with a strong interest in building intelligent solutions that solve real-world problems. Adept at problem-solving, teamwork, and continuous learning.
 
 ---
 
