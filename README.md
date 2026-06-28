@@ -1,13 +1,15 @@
 <div align="center">
 
-<!-- Animated Typing Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudassar+Hayat;Full+Stack+Web+Developer;AI+%26+Machine+Learning+Enthusiast;Computer+Science+Graduate)](https://git.io/typing-svg)
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%91%8B%2C+I'm+Mudassar+Hayat;Full+Stack+Web+Developer+%F0%9F%8C%90;Aspiring+AI+%26+ML+Engineer+%F0%9F%A4%96;CNN+%7C+Deep+Learning+%7C+Computer+Vision+%F0%9F%A7%A0;Building+Real-World+Intelligent+Apps+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=mudassarhayat&label=Profile+Views&color=0e75b6&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/mudassar-hayat)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=flat&logo=google-chrome)](https://your-portfolio-link.com)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail)](mailto:mudassarmalhi34501@gmail.com)
+<br/>
+
+<!-- Badges Row -->
+![Profile Views](https://komarev.com/ghpvc/?username=malhi01&label=Profile+Views&color=0e75b6&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/malhi01?label=Followers&style=flat-square&color=0e75b6)](https://github.com/malhi01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/mudassar-hayat-0586aa376)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mudassarmalhi34501@gmail.com)
 
 </div>
 
@@ -18,105 +20,130 @@
 ```python
 class MudassarHayat:
     def __init__(self):
-        self.name       = "Mudassar Hayat"
-        self.location   = "Narowal, Punjab, Pakistan 🇵🇰"
-        self.education  = "BSCS — University of Narowal (2022–2026)"
-        self.role       = "Full Stack Developer | AI/ML Enthusiast"
-        self.experience = "6-Month Internship @ Mezain Solution Software House"
+        self.name        = "Mudassar Hayat"
+        self.location    = "Narowal, Punjab, Pakistan 🇵🇰"
+        self.education   = "BSCS — University of Narowal (2022–2026)"
+        self.role        = "Full Stack Developer | AI & ML Enthusiast"
+        self.experience  = "6-Month Internship @ Mezain Solution Software House"
+        self.languages   = ["Urdu (Native)", "English (Professional)"]
 
     def current_focus(self):
         return [
-            "🧠 Deep Learning & Computer Vision",
-            "⚙️  Building AI-powered real-world apps",
-            "🌐 Full Stack Development (React + Django)",
+            "🔭 Final Year Project — AI Medical Diagnostic Assistant",
+            "🌱 Advanced Machine Learning, Deep Learning & MongoDB",
+            "👯 Open to collaborate on Python / Web Dev projects",
         ]
 
     def fun_fact(self):
-        return "I trained a CNN on 50,000+ MRI images to detect brain tumors 🧬"
+        return "I trained a CNN on 50,000+ MRI images achieving ~94% accuracy 🧬"
+
+    def reach_me(self):
+        return "mudassarmalhi34501@gmail.com"
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🔭 Current Work & Learning
 
-<div align="center">
+| Status | Activity |
+|--------|----------|
+| 🔭 Working on | **AI-powered Medical Diagnostic Assistant (FYP)** |
+| 🌱 Learning | **Advanced ML, Deep Learning & MongoDB** |
+| 👯 Looking to | **Collaborate on Python / Web Dev Projects** |
+| 🤝 Need help with | **Backend Architecture & MongoDB** |
+| 💬 Ask me about | **Python, Full Stack Dev, AI/ML Concepts** |
+| ⚡ Fun fact | **I build full-stack apps by day, train neural networks by night** |
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+---
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+## 🛠️ Languages & Tools
 
-### Backend & APIs
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-CNN-8A2BE2?style=for-the-badge)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-</div>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" alt="React" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=django" alt="Django" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" alt="Express" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/ollama/white" alt="Ollama" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Medical Diagnostic Assistant (Final Year Project)
+### 🧠 Medical Diagnostic Assistant — Final Year Project
 > AI-powered platform for Brain MRI & Kidney CT scan analysis
 
-- 🔬 CNN model trained on **50,000+ MRI images** — ~94% accuracy
-- 🫘 Kidney stone detection & measurement from CT scans
-- 📄 Auto-generated downloadable PDF diagnostic reports
-- 🤖 AI Medical Chatbot for doctors, patients & researchers
-- **Stack:** `Python` `Django` `Deep Learning` `CNN` `Computer Vision`
+- 🔬 Built a **CNN model trained on 50,000+ MRI images** — ~94% accuracy for brain tumor detection
+- 🫘 **Kidney stone detection & measurement** from CT scans
+- 📄 Auto-generated **downloadable PDF diagnostic reports**
+- 🤖 **AI Medical Chatbot** for doctors, patients & researchers
+- **Stack:** `Python` `Django` `Deep Learning` `CNN` `Computer Vision` `TensorFlow`
 
 ---
 
 ### 🏥 Hospital & Healthcare Pharmacy Management System
 > Complete database system for hospitals and pharmacies
-- Managed patient records, medicines, billing & inventory
+
+- 👤 Managed **patient records, medicines, billing & inventory**
+- 🗃️ Fully normalized relational database schema
 - **Stack:** `MySQL`
 
 ---
 
-### 🌐 Web Development Projects
-> Clones & mini-apps built with React.js
+### 🌐 Full Stack Web Projects
 
-| Project | Tech |
-|---|---|
-| Netflix Clone | React, CSS |
-| Spotify Clone | React, CSS |
-| Portfolio Website | HTML, CSS, JS |
-| To-Do List App | React |
-| Tic-Tac-Toe Game | JavaScript |
-| Calculator | JavaScript |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎬 Netflix Clone | Streaming UI clone | React, CSS |
+| 🎵 Spotify Clone | Music app UI clone | React, CSS |
+| 🌍 Portfolio Website | Personal showcase site | HTML, CSS, JS |
+| ✅ To-Do List App | Task manager | React |
+| 🎮 Tic-Tac-Toe Game | Browser game | JavaScript |
+| 🧮 Calculator | Functional calculator | JavaScript |
+| 🔐 Login/Signup System | Auth UI | React, JS |
 
 ---
+
+### 🎓 University Management System
+> Admin, Faculty & Student modules using OOP principles
+- **Stack:** `C++` `OOP`
 
 ### 🏦 Bank Management System
 > ATM simulation with deposits, withdrawals & transactions
 - **Stack:** `C++`
 
-### 🎓 University Management System
-> Admin, Faculty & Student modules with OOP
-- **Stack:** `C++`, `OOP`
+### 🌐 Jalal Son's Network System
+> Secure network infrastructure for a local business
+- Configured IP addressing, routing, switching & connectivity
+- **Stack:** `Cisco Packet Tracer`
+
+---
+
+## 🏢 Professional Experience
+
+**Full Stack Developer Intern** — *Mezain Solution Software House, Narowal*
+`Duration: 6 Months`
+
+- 📚 First 3 months: Intensive training in web technologies & software practices
+- 💻 Last 3 months: Developed real-world frontend & backend applications
+- ⚙️ Built apps using **React.js** and **Django**
+- 🔗 Integrated **REST APIs** with **MySQL & SQLite** databases
+- 🤝 Collaborated with teams using **Git & GitHub** version control
 
 ---
 
@@ -124,14 +151,14 @@ class MudassarHayat:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mudassarhayat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudassarhayat&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=malhi01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=malhi01&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mudassarhayat&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=malhi01&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -141,17 +168,7 @@ class MudassarHayat:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mudassarhayat&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-![snake gif](https://github.com/mudassarhayat/mudassarhayat/blob/output/github-contribution-grid-snake-dark.svg)
+[![trophy](https://github-profile-trophy.vercel.app/?username=malhi01&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -159,35 +176,40 @@ class MudassarHayat:
 
 ## 🏅 Achievements
 
-- 🥈 **2nd Position** in Intermediate (ICS) — Govt Associate College Baddomalhi
+- 🥈 **2nd Position** in Intermediate (ICS) — Govt. Associate College Baddomalhi
 - 💻 **Prime Minister Youth Laptop** awardee — University of Narowal (merit-based)
 
 ---
 
 ## 📜 Certifications
 
-- ✅ NAVTTC Certification
-- ✅ Network Design & Configuration — Cisco Packet Tracer
-- ✅ Full Stack Web Development — Mezain Solution Software House
+- ✅ **NAVTTC Certification**
+- ✅ **Network Design & Configuration** — Cisco Packet Tracer (Academic)
+- ✅ **Full Stack Web Development Training** — Mezain Solution Software House
 
 ---
 
-## 📬 Connect With Me
+## 🤝 Connect With Me
 
-<div align="center">
+<p align="left">
+<a href="https://github.com/malhi01" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="malhi01" height="30" width="40"/>
+</a>
+<a href="https://linkedin.com/in/mudassar-hayat-0586aa376" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+</a>
+<a href="mailto:mudassarmalhi34501@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="30" width="40"/>
+</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mudassar_Hayat-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mudassar-hayat)
-[![Gmail](https://img.shields.io/badge/Gmail-mudassarmalhi34501-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mudassarmalhi34501@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mudassarhayat-100000?style=for-the-badge&logo=github)](https://github.com/mudassarhayat)
-
-</div>
+📁 **All Projects:** [github.com/malhi01/about-me](https://github.com/malhi01/about-me)
+📄 **My Experience / CV:** [View on Google Drive](https://drive.google.com/drive/folders/1o9ed3zDw6I0gmL9gEVUWRhu_KeHpUHdV?usp=sharing)
 
 ---
 
 <div align="center">
 
-⭐ **Star karo mere repos agar helpful lage!** ⭐
-
-*"Code karo, seekho, aur kuch bana do jo duniya ko behtar kare."*
+*"Code karo, seekho, aur kuch bana do jo duniya ko behtar kare."* 🚀
 
 </div>
